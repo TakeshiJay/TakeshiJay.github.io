@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## This Website is a Quick Breakdown of all of the Projects I have worked on
 
-You can use the [editor on GitHub](https://github.com/TakeshiJay/TakeshiJay.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+You can use my [personal GitHub link](https://github.com/TakeshiJay) to check up on all the work that I have done in the past quarter. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Whenever this current website is updated, all current projects will be added to [my website](https://takeshijay.github.io/).
 
 ### Markdown
 
