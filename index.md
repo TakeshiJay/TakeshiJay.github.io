@@ -2,11 +2,14 @@
 
 You can use my [personal GitHub link](https://github.com/TakeshiJay) to check up on all the work that I have done in the past quarter. 
 
-Whenever this current website is updated, all current projects will be added to [my website](https://takeshijay.github.io/).
+Whenever this current website is updated, all current projects will be added to [this website](https://takeshijay.github.io/).
 
-### Markdown
+### About Me
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Hello, my name is Jacob and I am currently a student at California State University Long Beach. My current study is in
+computer science and am a first generation university student. The things in life that excite me the most are great food,
+discovering new things to learn, and providing help to others where I can. One thing that I take most serious in life is
+my learning curves in life. Being inspired to continue to grow and push on is what makes me different than any other person. My whole motto in life is: "__If you are not learning, your are not growing__" which I stand by every day.
 
 ```markdown
 Syntax highlighted code block
